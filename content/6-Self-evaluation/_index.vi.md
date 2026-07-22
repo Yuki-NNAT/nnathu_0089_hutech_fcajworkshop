@@ -1,0 +1,37 @@
+---
+title: "Tự đánh giá"
+date: 2026-07-07
+weight: 6
+chapter: false
+pre: " <b> 6. </b> "
+---
+
+Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Việt Nam** từ **ngày 17/04/2026** đến **ngày 30/07/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
+Tôi đã tham gia xây dựng và phát triển dự án **"AI Recipe Finder"** – một ứng dụng cá nhân hóa gợi ý công thức nấu ăn tích hợp các dịch vụ đám mây. Trong dự án, tôi phụ trách phần **Backend và Database**, bao gồm xử lý dữ liệu, thiết kế cơ sở dữ liệu, khởi tạo Amazon RDS for MySQL, xây dựng Backend API bằng FastAPI, triển khai Backend trên Amazon EC2 và thiết lập xác thực người dùng bằng Amazon Cognito. Qua đó, tôi đã cải thiện kỹ năng lập trình Backend, quản trị cơ sở dữ liệu, triển khai ứng dụng trên môi trường Cloud, viết báo cáo kỹ thuật và phối hợp làm việc nhóm.  
+
+Về tác phong, tôi luôn có ý thức tuân thủ các quy định, nghiêm túc thực hiện nhiệm vụ và cố gắng hoàn thành phần công việc được giao đúng tiến độ. Trong quá trình làm việc, tôi chủ động tìm hiểu kiến thức mới, trao đổi với các thành viên khi gặp khó khăn và sẵn sàng tiếp nhận phản hồi để cải thiện kết quả công việc.
+
+Để phản ánh một cách khách quan quá trình thực tập, tôi xin tự đánh giá bản thân dựa trên các tiêu chí dưới đây:
+
+
+| STT | Tiêu chí                            | Mô tả                                                                                            | Tốt | Khá | Trung bình |
+| --- | ----------------------------------- | ------------------------------------------------------------------------------------------------ | --- | --- | ---------- |
+| 1   | **Kiến thức và kỹ năng chuyên môn** | Hiểu biết về ngành, áp dụng kiến thức vào thực tế, kỹ năng sử dụng công cụ, chất lượng công việc | ☐   | ✅   | ☐          |
+| 2   | **Khả năng học hỏi**                | Tiếp thu kiến thức mới, học hỏi nhanh                                                            | ✅   | ☐   | ☐          |
+| 3   | **Chủ động**                        | Tự tìm hiểu, nhận nhiệm vụ mà không chờ chỉ dẫn                                                  | ✅   | ☐   | ☐          |
+| 4   | **Tinh thần trách nhiệm**           | Hoàn thành công việc đúng hạn, đảm bảo chất lượng                                                | ✅   | ☐   | ☐          |
+| 5   | **Kỷ luật**                         | Tuân thủ giờ giấc, nội quy, quy trình làm việc                                                   | ✅   | ☐   | ☐          |
+| 6   | **Tính cầu tiến**                   | Sẵn sàng nhận phản hồi và cải thiện bản thân                                                     | ✅   | ☐   | ☐          |
+| 7   | **Giao tiếp**                       | Trình bày ý tưởng, báo cáo công việc rõ ràng                                                     | ☐   | ✅   | ☐          |
+| 8   | **Hợp tác nhóm**                    | Làm việc hiệu quả với đồng nghiệp, tham gia nhóm                                                 | ✅   | ☐   | ☐          |
+| 9   | **Ứng xử chuyên nghiệp**            | Tôn trọng đồng nghiệp, đối tác, môi trường làm việc                                              | ✅   | ☐   | ☐          |
+| 10  | **Tư duy giải quyết vấn đề**        | Nhận diện vấn đề, đề xuất giải pháp, sáng tạo                                                    | ✅   | ☐   | ☐          |
+| 11  | **Đóng góp vào dự án/tổ chức**      | Hiệu quả công việc, sáng kiến cải tiến, ghi nhận từ nhóm                                         | ✅   | ☐   | ☐          |
+| 12  | **Tổng thể**                        | Đánh giá chung về toàn bộ quá trình thực tập                                                     | ✅   | ☐   | ☐          |
+
+### Cần cải thiện
+
+- Tiếp tục trau dồi kiến thức và kỹ năng chuyên môn về Backend, cơ sở dữ liệu, bảo mật ứng dụng và kiến trúc hệ thống trên AWS để nâng cao khả năng áp dụng vào các dự án thực tế.
+- Cải thiện kỹ năng giao tiếp, trình bày ý tưởng và báo cáo các nội dung kỹ thuật một cách ngắn gọn, rõ ràng và dễ hiểu hơn.
+- Nâng cao tốc độ phân tích và xử lý sự cố, đồng thời rèn luyện khả năng đánh giá giải pháp dựa trên các yếu tố bảo mật, chi phí và khả năng mở rộng.
+- Chủ động đề xuất thêm các ý tưởng và phương án cải tiến nhằm nâng cao hiệu quả công việc và tạo thêm giá trị cho dự án cũng như đội nhóm.
