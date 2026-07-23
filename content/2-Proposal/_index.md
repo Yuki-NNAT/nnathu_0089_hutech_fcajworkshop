@@ -26,7 +26,7 @@ The solution provides a powerful tool that helps individual users save time, opt
 ### 3. Solution Architecture
 The platform applies a cloud-based architecture on AWS to manage and suggest thousands of cooking recipes based on the user's ingredients. Requests from the web interface are received and processed by the Backend API (running on EC2 or App Runner), looking up data from Amazon RDS and images from Amazon S3. Advanced tasks such as semantic search and the nutritional consulting Chatbot are processed directly by Amazon Bedrock, while AWS Amplify provides a smooth and stable user interface.
 
-![AI Recipe Finder](/images/2-Proposal/Proposal1.jpg)
+![AI Recipe Finder](/images/2-Proposal/Workflow.jpg)
 
 ### AWS Services Used
 -	AWS Amplify: Hosts and deploys the web interface (React + Tailwind CSS). 

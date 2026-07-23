@@ -26,7 +26,7 @@ Giải pháp mang lại một công cụ đắc lực giúp người dùng cá n
 ### 3. Kiến trúc giải pháp  
 Nền tảng áp dụng kiến trúc đám mây (Cloud-based) trên AWS để quản lý và gợi ý hàng ngàn công thức nấu ăn dựa trên nguyên liệu của người dùng. Các yêu cầu từ giao diện web được tiếp nhận và xử lý bởi Backend API (chạy trên EC2 hoặc App Runner), tra cứu dữ liệu từ Amazon RDS và hình ảnh từ Amazon S3. Các tác vụ nâng cao như tìm kiếm theo ngữ nghĩa (Semantic Search) và Chatbot tư vấn dinh dưỡng được xử lý trực tiếp bởi Amazon Bedrock, trong khi AWS Amplify cung cấp giao diện người dùng mượt mà và ổn định.   
 
-![AI Recipe Finder](/images/2-Proposal/Proposal1.jpg)
+![AI Recipe Finder](/images/2-Proposal/Workflow.jpg)
 
 
 
