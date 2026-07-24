@@ -23,8 +23,8 @@ This page gathers the important links used throughout the process of building, d
 ---
 
 ### Deployed Website
-
 &emsp;**AWS Amplify:** [Access AI Recipe Finder](https://main.d2ykhh6couuz7m.amplifyapp.com/)
+
 ---
 
 ### Demo

@@ -25,6 +25,7 @@ Trang này tổng hợp các đường dẫn quan trọng được sử dụng t
 ### Website đã triển khai
 
 &emsp;**AWS Amplify:** [Truy cập AI Recipe Finder](https://main.d2ykhh6couuz7m.amplifyapp.com/)
+
 ---
 
 ### Demo
